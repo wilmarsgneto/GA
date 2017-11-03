@@ -1,0 +1,7 @@
+C:\Users\Wilmar\source\repos\GA\GA\obj\Debug\GA.csprojResolveAssemblyReference.cache
+C:\Users\Wilmar\source\repos\GA\GA\obj\Debug\GA.csproj.CoreCompileInputs.cache
+C:\Users\Wilmar\source\repos\GA\GA\bin\Debug\GA.exe.config
+C:\Users\Wilmar\source\repos\GA\GA\bin\Debug\GA.exe
+C:\Users\Wilmar\source\repos\GA\GA\bin\Debug\GA.pdb
+C:\Users\Wilmar\source\repos\GA\GA\obj\Debug\GA.exe
+C:\Users\Wilmar\source\repos\GA\GA\obj\Debug\GA.pdb
